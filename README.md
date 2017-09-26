@@ -1,0 +1,1 @@
+# ADORICO_KarenShane_PersonalWebsite
