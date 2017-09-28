@@ -3,7 +3,7 @@
 	.main {
     		max-width: 1000px;
     		margin: auto;}
-	.row {
+	.row, .row1, .row2 {
  	   	margin: 5px -16px;}
 	.row,
 	.row > .column {
@@ -11,11 +11,26 @@
 	.column {
 	   	float: left;
     		width: 25%;}
+	.column1, .column2 {
+		float: left;
+		width: 50%;
+		margin: 25px;}
+	.column3 {
+		float: left;
+		width: 100%;
+		margin: 25px;
+		text-align: center;}
+	.column5 {
+	   	float: left;
+    		width: 100%;}
+	.column4 {
+	   	float: left;
+    		width: 100%;}
 	.row:after {
    		content: "";
     		display: table;
     		clear: both;}
-	.content {
+	.content, .content1, .content2, .content3, .content4, .content5 {
     		background-color: white;
     		padding: 10px;}
 	@media (max-width: 900px) {
@@ -93,11 +108,11 @@
 		text-align: right;
 		text-decoration: none;}
 	p, ul {
-		font-size: 20px;
+		font-size: 18px;
 		font-family: Arial, Verdana, sans-serif;
-		margin: 0px 0px 0px -10px;
+		margin: 0px 0px 0px -20px;
 		color: #4b4a48;
-		padding: 20px 35px 45px 45px;}
+		padding: 20px 35px 45px 40px;}
 	#skills {
 		margin: 0px;}
 	#about_me {
@@ -122,14 +137,6 @@
 		width: 93%;}
 	.footer a {
 		transition: all 0.3s ease;}
-	li>a {
-		color: #2b5299;
-		font-size: 20px;
-		text-align: center;
-		padding: 0px 0px 0px 0px;}
-	li>a:hover {
-		color: white;
-		border: solid;}
 	ul.4{
 		height: 0%;
 		width: 93%;}
