@@ -1,7 +1,7 @@
 <html>
 <head>
 <title> Adorico </title>
-<link rel="styles.css" style="text/css" rel="stylesheet"/>
+<link href="styles.css" type="text/css" rel="stylesheet"/>
 </head>
 <body>
 	<p>
