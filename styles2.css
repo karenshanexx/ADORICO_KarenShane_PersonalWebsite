@@ -11,7 +11,7 @@
 	.column4 {
 	   	float: left;
     		width: 25%;
-		margin: 0px 0px 0px 100px;}
+		margin: 10px 0px 0px 100px;}
 	.column {
 	   	float: left;
     		width: 25%;
@@ -31,11 +31,12 @@
 		width: 100%;
 		margin: 25px;
 		text-align: center;
-		margin: 10px 0px 10px 10px;}
+		padding: 0px 0px 0px 0px;
+		margin: 10px 0px 15px 10px;}
 	.column5 {
 	   	float: left;
     		width: 25%;
-		margin: 0px -100px 10px 0px;}
+		margin: 10px -100px 10px 0px;}
 	.row:after {
    		content: "";
     		display: table;
@@ -136,6 +137,8 @@
 		font-size: 80px;
 		padding: 10px 10px 10px 20px;
 		margin: -320px 0px 20px 100px;}
+	.baba {
+		display: block;}
 	.footer {
 		background-color: #df596c;
 		font-size: 18px;
@@ -164,3 +167,20 @@
     		background-color: #4b4a48;}
 	.active {
     		background-color: #df596c;}
+	.fling-minislide{
+		width: 270px; 
+		height: 270px; 
+		padding-bottom: 50%; 
+		overflow: hidden; 
+		position: relative;}
+	.fling-minislide img{ 
+		position: absolute; 
+		animation: fling-minislide 10s infinite; 
+		opacity: 0; 
+		width: 100%; 
+		height: auto;}
+	@keyframes fling-minislide {25%{opacity:1;} 40%{opacity:0;}} 
+		.fling-minislide img:nth-child(4){animation-delay:0s;}
+		.fling-minislide img:nth-child(3){animation-delay:5s;}
+		.fling-minislide img:nth-child(2){animation-delay:10s;}
+		.fling-minislide img:nth-child(1){animation-delay:15s;}
