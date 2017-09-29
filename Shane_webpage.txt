@@ -45,10 +45,12 @@
 	  	Address: 3rd St. Lougemar Village, Old Airport Road, Sasa, Davao City <br>
 		</p>
       		<div class="fling-minislide">
-		<img src="fam.jpg" alt="Slide 4" />
-		<img src="page_pic.jpg" alt="Slide 3" />
-		<img src="fam.jpg" alt="Slide 2" />
-		<img src="page_pic.jpg" alt="Slide 1" />
+		<img src="mapa.jpg" alt="Slide 6" />
+		<img src="syd.jpg" alt="Slide 5" />
+		<img src="king.jpg" alt="Slide 4" />
+		<img src="kir.jpg" alt="Slide 3" />
+		<img src="wj.jpg" alt="Slide 2" />
+		<img src="cy.jpg" alt="Slide 1" />
 		</div>
 		<h3>Family</h3>
       		<p>Mother: Helen O. Adorico<br>Occupation: Government Employee <br>
@@ -65,10 +67,14 @@
     	<div class="content1">
       		<h2 id="achievements">Achievements</h2>
 		<div class="fling-minislide">
-		<img src="page_pic.jpg" alt="Slide 4" />
-		<img src="page_pic.jpg" alt="Slide 3" />
-		<img src="page_pic.jpg" alt="Slide 2" />
-		<img src="page_pic.jpg" alt="Slide 1" />
+		<img src="uke.jpg" alt="Slide 8" />
+		<img src="musika.jpg" alt="Slide 7" />
+		<img src="winner.jpg" alt="Slide 6" />
+		<img src="poster.jpg" alt="Slide 5" />
+		<img src="10k.jpg" alt="Slide 4" />
+		<img src="champ.jpg" alt="Slide 3" />
+		<img src="artist.jpg" alt="Slide 2" />
+		<img src="basket.jpg" alt="Slide 1" />
 		</div>
 		<ul>
 		<li>Poster Making Contest Awardee (SY 2011-2014)</li>
@@ -79,6 +85,9 @@
 		<li>Intramurals - Word Factory Champion (SY 2014-2015)</li>
 		<li>Art Workshop - Poster Making Contest Winner (SY 2016-2017)</li>
 		<li>McDonald's: Best in Front Counter (September 2015)</li>
+		<li>10 Kilometers Fun Run: Completed<li>
+		<li>Joined Basketball Game for Intramurals</li>
+		<li>Learned to play guitar and ukelele</li>
 		</ul>
     	</div>
   	</div>
@@ -89,10 +98,10 @@
     	<div class="content2">
       		<h2 id="skills">Skills</h2>
 		<div class="fling-minislide">
-		<img src="fam.jpg" alt="Slide 4" />
-		<img src="page_pic.jpg" alt="Slide 3" />
-		<img src="fam.jpg" alt="Slide 2" />
-		<img src="page_pic.jpg" alt="Slide 1" />
+		<img src="coder.jpg" alt="Slide 4" />
+		<img src="pen.jpg" alt="Slide 3" />
+		<img src="line.jpg" alt="Slide 2" />
+		<img src="logo.jpg" alt="Slide 1" />
 		</div>
 		<ul>
 		<li>Good communication skills</li>
@@ -119,7 +128,11 @@
 	<div class="row4">
   	<div class="column4">
     	<div class="content4">
-      		<img src="page_pic.jpg" alt="Education" style="width:50%">
+      		<div class="fling-minislide">
+		<img src="elem.jpg" alt="Slide 3" />
+		<img src="hs.jpg" alt="Slide 2" />
+		<img src="col.jpg" alt="Slide 1" />
+		</div>
       		<h3 id="education" class="ed">Education</h3>
 		<p><b>Tertiary</b><br>
 		2014-present<br>
@@ -143,7 +156,7 @@
 	<div class="row5">
   	<div class="column5">
     	<div class="content5">
-      		<img src="page_pic.jpg" alt="Experience" style="width:50%">
+      		<img src="car.jpg" alt="Experience" style="width:50%">
       		<h3 id="affiliations">Affiliations</h3>
 		<ul>
 		<li>Interact Club Member (SY 2011-2012)</li>
@@ -159,7 +172,11 @@
 	<div class="row5">
   	<div class="column5">
     	<div class="content5">
-		<img src="page_pic.jpg" alt="Activities" style="width:50%">
+		<div class="fling-minislide">
+		<img src="graphicon.jpg" alt="Slide 3" />
+		<img src="codeplaylearn.jpg" alt="Slide 2" />
+		<img src="mus.jpg" alt="Slide 1" />
+		</div>
 		<h3 id="activities">Activities</h3>
 		<ul>
 		<li>School Base Supreme Student Government Leadership Training (SY 2012-2013)</li>
@@ -177,7 +194,10 @@
 	<div class="row5">
   	<div class="column5">
     	<div class="content5">
-		<img src="page_pic.jpg" alt="Experience" style="width:50%">
+		<div class="fling-minislide">
+		<img src="mcmcmcdo.jpg" alt="Slide 2" />
+		<img src="vxi.jpg" alt="Slide 1" />
+		</div>
    	  	<h3 id="experience">Experience</h3>
    		<p><b>Service Crew</b><br>
 		Golden Arches Development Corp.<br>
@@ -194,14 +214,14 @@
   	</div>
 	</div>
 	<div class="baba">
-	<div class="footer">
+	<footer>
   	<p class="footer"> <a href="#home"> <img src="home.png" alt="Home" width="25" height="22"> </a>
 	 	<a href="#achievements"> <img src="achievements.png" alt="Achievements" width="25" height="22"></a>
 	 	<a href="#skills"> <img src="skills.png" alt="Skills" width="25" height="22"></a>
 	 	<a href="#about_me"> <img src="aboutme.png" alt="AboutMe" width="25" height="22"></a><br/>
 		&nbsp&nbsp&nbsp Karen Shane O. Adorico | 2017 
    	</p>
-	</div>
+	</footer>
 	</div>
 </body>
 </html>

@@ -139,7 +139,7 @@
 		margin: -320px 0px 20px 100px;}
 	.baba {
 		display: block;}
-	.footer {
+	footer {
 		background-color: #df596c;
 		font-size: 18px;
 		font-color: #000000;
@@ -147,7 +147,7 @@
 		height: 3%;
 		width: 95%;
 		position: bottom;}
-	.footer a {
+	footer a {
 		transition: all 0.3s ease;}
 	ul.4{
 		height: 0%;
