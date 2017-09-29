@@ -10,41 +10,51 @@
     		padding: 8px;}
 	.column4 {
 	   	float: left;
-    		width: 25%;
-		margin: 10px 0px 0px 100px;}
+    		width: 30%;
+		margin: 10px 0px 0px 0px;}
 	.column {
 	   	float: left;
-    		width: 25%;
+    		width: 30%;
 		margin: 0px -50px 0px 110px;}
 	.column1 {
 		float: left;
-		width: 50%;
+		width: 55%;
 		margin: 25px;
 		margin: 0px 0px 0px 100px;}
 	.column2 {
 		float: left;
-		width: 50%;
-		margin: 25px;
-		margin: -670px 0px 50px 485px;}
+		width: 55.5%;
+		margin: -555px 0px 50px 549px;}
 	.column3 {
 		float: left;
 		width: 100%;
-		margin: 25px;
+		margin: 30px;
 		text-align: center;
-		padding: 0px 0px 0px 0px;
-		margin: 10px 0px 15px 10px;}
+		padding: 10px 10px 10px 15px;
+		margin: -30px -10px 10px 0px;
+		background-color: #df596c; }
 	.column5 {
 	   	float: left;
-    		width: 25%;
-		margin: 10px -100px 10px 0px;}
+    		width: 28.4%;
+		margin: 10px -94px 0px 0px;}
 	.row:after {
    		content: "";
     		display: table;
     		clear: both;}
 	.content, .content1, .content2, .content3, .content4, .content5 {
     		background-color: white;
-    		padding: 10px;}
-	@media (max-width: 900px) {
+    		padding: 20px;}
+	.content5 {
+    		background-color: white;
+    		padding: 20px;
+		font-size: 18px;
+		margin: 0px 10px 0px 0px;}
+	.content3 {
+    		background-color: white;
+    		padding: 20px;
+		background-color: #df596c}
+
+	@media (max-width: 800px) {
     	.column, .column4, .column5 {
         	width: 50%;}
 	}
@@ -136,25 +146,25 @@
 		color: #4b4a48;
 		font-size: 80px;
 		padding: 10px 10px 10px 20px;
-		margin: -320px 0px 20px 100px;}
+		margin: -1445px -50px 0px 100px;}
 	.baba {
 		display: block;}
-	footer {
-		background-color: #df596c;
-		font-size: 18px;
-		font-color: #000000;
-		text-align: center;
-		height: 3%;
-		width: 95%;
-		position: bottom;}
-	footer a {
-		transition: all 0.3s ease;}
 	ul.4{
 		height: 0%;
 		width: 93%;}
+	ul.skills {
+		font-size: 16px;}
+	ul.act {
+		font-size: 15px;}
+	ul.affi {
+		font-size: 18.3px;}
+	p.exp {
+		font-size: 20px;}
+	p.edu {
+		font-size: 16.3px;}
 	.icon-bar {
     		width: 85px;
-		height: 340px;
+		height: 1445px;
     		background-color: #000;}
 	.icon-bar a {
     		display: block;
@@ -168,16 +178,16 @@
 	.active {
     		background-color: #df596c;}
 	.fling-minislide{
-		width: 270px; 
-		height: 270px; 
-		padding-bottom: 50%; 
+		width: 250px; 
+		height: 250px; 
+		padding-bottom: 10px; 
 		overflow: hidden; 
 		position: relative;}
 	.fling-minislide img{ 
 		position: absolute; 
-		animation: fling-minislide 10s infinite; 
+		animation: fling-minislide 9s infinite; 
 		opacity: 0; 
-		width: 100%; 
+		width: 110%; 
 		height: auto;}
 	@keyframes fling-minislide {25%{opacity:1;} 40%{opacity:0;}} 
 		.fling-minislide img:nth-child(4){animation-delay:0s;}
