@@ -85,7 +85,7 @@
 		<li>Intramurals - Word Factory Champion (SY 2014-2015)</li>
 		<li>Art Workshop - Poster Making Contest Winner (SY 2016-2017)</li>
 		<li>McDonald's: Best in Front Counter (September 2015)</li>
-		<li>10 Kilometers Fun Run: Completed<li>
+		<li>10 Kilometers Fun Run: Completed</li>
 		<li>Joined Basketball Game for Intramurals</li>
 		<li>Learned to play guitar and ukelele</li>
 		</ul>
@@ -103,7 +103,7 @@
 		<img src="line.jpg" alt="Slide 2" />
 		<img src="logo.jpg" alt="Slide 1" />
 		</div>
-		<ul>
+		<ul class="skills">
 		<li>Good communication skills</li>
 		<li>Leadership skills</li>
 		<li>Computer Literate</li>
@@ -134,20 +134,20 @@
 		<img src="col.jpg" alt="Slide 1" />
 		</div>
       		<h3 id="education" class="ed">Education</h3>
-		<p><b>Tertiary</b><br>
+		<p class="edu"><b>Tertiary</b><br>
 		2014-present<br>
-		University of Southeastern Philippines<br>
+		University of Southeastern<br> Philippines<br>
 		Bo. Obrero, Davao City<br>
-		Bachelor of Science in Information Technology
+		Bachelor of Science in <br>Information Technology
 		<br><br>
 		<b>Secondary</b><br>
 		2010-2014<br>
-		Francisco Bangoy National High School<br>
+		Francisco Bangoy National<br> High School<br>
 		Km. 9, Sasa, Davao City
  		<br><br>
 		<b>Elementary</b><br>
 		2006-2010<br>
-		Vicente Hizon Sr. Elementary School<br>
+		Vicente Hizon Sr.<br> Elementary School<br>
 		Pampanga, Davao City
    		</p>
     	</div>
@@ -156,15 +156,19 @@
 	<div class="row5">
   	<div class="column5">
     	<div class="content5">
-      		<img src="car.jpg" alt="Experience" style="width:50%">
+		<div class="fling-minislide">
+		<img src="car.jpg" alt="Slide 3" />
+		<img src="car.jpg" alt="Slide 2" />
+		<img src="car.jpg" alt="Slide 1" />
+		</div>
       		<h3 id="affiliations">Affiliations</h3>
-		<ul>
-		<li>Interact Club Member (SY 2011-2012)</li>
-		<li>Theatre and Speech Arts Club Member(SY 2011-2012)</li>
-		<li>Healthy Youth Club Member (SY 2012-2014)</li>
-		<li>Supreme Student Government Executive Secretary (SY 2013-2014)</li>
-		<li>Youth for Environment and Science Organization Member (SY 2013-2014)</li>
-		<li>Campus Journalism Cartoonist (SY 2013-2014)</li>
+		<ul class="affi">
+		<li>Interact Club Member<br> (SY 2011-2012)</li>
+		<li>Theatre and Speech <br>Arts Club <br>Member(SY 2011-2012)</li>
+		<li>Healthy Youth <br>Club Member<br> (SY 2012-2014)</li>
+		<li>Supreme Student <br>Government Executive Secretary (SY 2013-2014)</li>
+		<li>Youth for Environment<br> and Science Organization Member (SY 2013-2014)</li>
+		<li>Campus Journalism<br> Cartoonist<br> (SY 2013-2014)</li>
 		</ul>
 	</div>
   	</div>
@@ -178,15 +182,15 @@
 		<img src="mus.jpg" alt="Slide 1" />
 		</div>
 		<h3 id="activities">Activities</h3>
-		<ul>
-		<li>School Base Supreme Student Government Leadership Training (SY 2012-2013)</li>
-		<li>Healthy Youth Club Leadership Training (SY 2012-2013)</li>
-		<li>Division Leadership training for SSG Officers Participant (SY 2013-2014)</li>
-		<li>YES-O School Base Leadership Training (SY 2013-2014)</li>
+		<ul class="act">
+		<li>School Base Supreme<br> Student Government<br> Leadership Training <br>(SY 2012-2013)</li>
+		<li>Healthy Youth Club <br>Leadership Training <br>(SY 2012-2013)</li>
+		<li>Division Leadership <br>Training for SSG <br>Officers Participant <br>(SY 2013-2014)</li>
+		<li>YES-O School Base<br> Leadership Training<br> (SY 2013-2014)</li>
 		<li>DevCon: Developers Connect Convention (SY 2014-2015)</li>
-		<li>Graphicon Convention (December 2016)</li>
-		<li>Code, Learn, Play Workshop (SY 2016-2017)</li>
-		<li>Musicale: Music on Wheels Workshop (May 2017)</li>
+		<li>Graphicon Convention<br> (December 2016)</li>
+		<li>Code, Learn, Play <br>Workshop (SY 2016-2017)</li>
+		<li>Musicale: Music on Wheels <br>Workshop (May 2017)</li>
 		</ul>
 	</div>
   	</div>
@@ -195,33 +199,24 @@
   	<div class="column5">
     	<div class="content5">
 		<div class="fling-minislide">
-		<img src="mcmcmcdo.jpg" alt="Slide 2" />
-		<img src="vxi.jpg" alt="Slide 1" />
+		<img src="mcmcmcdo.jpg" alt="Slide 3" />
+		<img src="vxi.jpg" alt="Slide 2" />
+		<img src="mcmcmcdo.jpg" alt="Slide 1" />
 		</div>
    	  	<h3 id="experience">Experience</h3>
-   		<p><b>Service Crew</b><br>
-		Golden Arches Development Corp.<br>
-		McDonald's Sta. Ana 440<br>
-		Sta. Ana Avenue, Davao City<br>
+   		<p class="exp"><b>Service Crew</b><br>
+		Golden Arches <br>Development Corp.<br>
+		McDonald's Sta. Ana<br> 440<br>
+		Sta. Ana Avenue,<br> Davao City<br>
 		(January 2015-April 2016)
 		<br><br>
       		<b>Call Center Agent</b><br>
-		BV Holdings VXI Global<br>
-		Sm Ecoland Davao City<br>
+		BV Holdings <br>VXI Global<br>
+		Sm Ecoland <br>Davao City<br>
 		(April 2016-September 2016)
    		</p>
     	</div>
   	</div>
-	</div>
-	<div class="baba">
-	<footer>
-  	<p class="footer"> <a href="#home"> <img src="home.png" alt="Home" width="25" height="22"> </a>
-	 	<a href="#achievements"> <img src="achievements.png" alt="Achievements" width="25" height="22"></a>
-	 	<a href="#skills"> <img src="skills.png" alt="Skills" width="25" height="22"></a>
-	 	<a href="#about_me"> <img src="aboutme.png" alt="AboutMe" width="25" height="22"></a><br/>
-		&nbsp&nbsp&nbsp Karen Shane O. Adorico | 2017 
-   	</p>
-	</footer>
 	</div>
 </body>
 </html>
