@@ -218,5 +218,15 @@
     	</div>
   	</div>
 	</div>
+  	<div class="column6">
+    	<div class="content6">
+		<div class="logo2"> <img src="ks_logo.png" alt="logo" width="165" height="38"> <br>
+	 	<a href="#home"> <img src="home.png" alt="Home" width="25" height="22"></a>
+		<a href="#achievements"> <img src="achievements.png" alt="Achievements" width="25" height="22"></a>
+		<a href="#skills"> <img src="skills.png" alt="Skills" width="25" height="22"></a>
+		<a href="#about_me"> <img src="aboutme.png" alt="About Me" width="25" height="22"></a>
+    		<h3 id="about_me">Karen Shane O. Adorico | 2017</h3>
+	</div>
+  	</div>
 </body>
 </html>
