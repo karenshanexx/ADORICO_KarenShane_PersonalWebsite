@@ -11,7 +11,7 @@
 	.column4 {
 	   	float: left;
     		width: 30%;
-		margin: 10px 0px 0px 0px;}
+		margin: 0px 0px 0px 0px;}
 	.column {
 	   	float: left;
     		width: 30%;
@@ -27,21 +27,28 @@
 		margin: -555px 0px 50px 549px;}
 	.column3 {
 		float: left;
-		width: 100%;
+		width: 99.7%;
 		margin: 30px;
 		text-align: center;
-		padding: 10px 10px 10px 15px;
+		padding: 0px 10px 10px 15px;
 		margin: -30px -10px 10px 0px;
 		background-color: #df596c; }
 	.column5 {
 	   	float: left;
     		width: 28.4%;
-		margin: 10px -94px 0px 0px;}
+		margin: 0px -94px 0px 0px;}
+	.column6 {
+		float: left;
+		width: 99.5%;
+		text-align: center;
+		padding: -20px -20px 0px 0px;
+		margin: -30px 0px 30px 0px;
+		background-color: #df596c; }
 	.row:after {
    		content: "";
     		display: table;
     		clear: both;}
-	.content, .content1, .content2, .content3, .content4, .content5 {
+	.content, .content1, .content2, .content3, .content4 {
     		background-color: white;
     		padding: 20px;}
 	.content5 {
@@ -49,8 +56,8 @@
     		padding: 20px;
 		font-size: 18px;
 		margin: 0px 10px 0px 0px;}
-	.content3 {
-    		background-color: white;
+	.content3, .content6 {
+    		color: white;
     		padding: 20px;
 		background-color: #df596c}
 
@@ -121,6 +128,10 @@
 		border: none;
 		float: left;
 		padding: 0px 15px 0px 65px;}
+	.logo2 {
+		border: none;
+		float: center;
+		padding: 0px 20px 0px 0px;}
 	.nav {
 		font-family: Arial, Verdana, sans-serif;
 		font-size: 25px;
@@ -147,8 +158,6 @@
 		font-size: 80px;
 		padding: 10px 10px 10px 20px;
 		margin: -1445px -50px 0px 100px;}
-	.baba {
-		display: block;}
 	ul.4{
 		height: 0%;
 		width: 93%;}
